@@ -1,0 +1,28 @@
+name: Gaming
+favicon: null
+layout_spectrum: 0.9113199373241514
+typography_spectrum: 0.6140503331553191
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.6835649509448558
+  lightness: 0.922162861097604
+  saturation: 0.6312872518319637
+  rhythmicContrast: 0.7575476209167391
+purpose: []
